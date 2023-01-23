@@ -1,4 +1,4 @@
-package semestralka;
+package 20PesekMSemestralProject;
 
 import java.util.Scanner;
 
